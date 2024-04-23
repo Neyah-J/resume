@@ -3,14 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Neyah Johnson's Resume</title>
-    <style>
-        body { font-family: Arial, sans-serif; line-height: 1.6; }
-        .container { max-width: 800px; margin: auto; padding: 20px; }
-        .job-description, .coursework, .project-description { margin-left: 20px; }
-    </style>
-</head>
-<body>
+   
     <div class="container">
         <h1>Neyah Johnson</h1>
         <p>973-640-9244 | <a href="mailto:johnsney@kean.edu">johnsney@kean.edu</a></p>
