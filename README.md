@@ -1,5 +1,3 @@
-Neyah Johnson's Resume
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -74,6 +72,13 @@ Neyah Johnson's Resume
         <section>
             <h2>ADDITIONAL</h2>
             <p>Awards: NJAC Foundation & SHI International 2021 Scholarship Program Award
+
+
+
+
+
+
+
 
 
 
